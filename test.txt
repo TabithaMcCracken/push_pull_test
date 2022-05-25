@@ -1,1 +1,2 @@
 This is a test written from my local repository.
+This line was added in my local repository.
